@@ -1,0 +1,341 @@
+{
+    "num_candidate_image_pairs": 28,
+    "reconstructions": [
+        {
+            "bootstrap": {
+                "image_pair": [
+                    "kitchen01.jpg",
+                    "kitchen08.jpg"
+                ],
+                "common_tracks": 1288,
+                "two_view_reconstruction": {
+                    "5_point_inliers": 1281,
+                    "plane_based_inliers": 1108,
+                    "method": "5_point"
+                },
+                "triangulated_points": 976,
+                "decision": "Success",
+                "memory_usage": 198959104
+            },
+            "grow": {
+                "steps": [
+                    {
+                        "images": [
+                            "kitchen02.jpg"
+                        ],
+                        "resection": {
+                            "num_common_points": 620,
+                            "num_inliers": 593,
+                            "shots": [
+                                "kitchen02.jpg"
+                            ]
+                        },
+                        "memory_usage": 201601024,
+                        "triangulated_points": 488,
+                        "bundle": {
+                            "brief_report": "Ceres Solver Report: Iterations: 9, Initial cost: 1.832666e+02, Final cost: 1.383279e+02, Termination: CONVERGENCE",
+                            "wall_times": {
+                                "setup": 0.005161,
+                                "run": 0.153702,
+                                "teardown": 0.002779
+                            },
+                            "num_images": 3,
+                            "num_points": 1463,
+                            "num_reprojections": 3620
+                        },
+                        "retriangulation": {
+                            "num_points_before": 1463,
+                            "num_points_after": 1394,
+                            "wall_time": 0.2951487940008519
+                        },
+                        "bundle_after_retriangulation": {
+                            "brief_report": "Ceres Solver Report: Iterations: 10, Initial cost: 1.545480e+02, Final cost: 1.503908e+02, Termination: CONVERGENCE",
+                            "wall_times": {
+                                "setup": 0.003055,
+                                "run": 0.136168,
+                                "teardown": 0.003575
+                            },
+                            "num_images": 3,
+                            "num_points": 1394,
+                            "num_reprojections": 3503
+                        }
+                    },
+                    {
+                        "images": [
+                            "kitchen07.jpg"
+                        ],
+                        "resection": {
+                            "num_common_points": 770,
+                            "num_inliers": 494,
+                            "shots": [
+                                "kitchen07.jpg"
+                            ]
+                        },
+                        "memory_usage": 204660736,
+                        "triangulated_points": 802,
+                        "bundle": {
+                            "brief_report": "Ceres Solver Report: Iterations: 25, Initial cost: 5.322285e+02, Final cost: 3.934428e+02, Termination: CONVERGENCE",
+                            "wall_times": {
+                                "setup": 0.003971,
+                                "run": 0.42798,
+                                "teardown": 0.003338
+                            },
+                            "num_images": 4,
+                            "num_points": 2196,
+                            "num_reprojections": 5793
+                        },
+                        "retriangulation": {
+                            "num_points_before": 2196,
+                            "num_points_after": 2336,
+                            "wall_time": 0.36908124099863926
+                        },
+                        "bundle_after_retriangulation": {
+                            "brief_report": "Ceres Solver Report: Iterations: 14, Initial cost: 4.944795e+02, Final cost: 3.863058e+02, Termination: CONVERGENCE",
+                            "wall_times": {
+                                "setup": 0.004165,
+                                "run": 0.264805,
+                                "teardown": 0.003172
+                            },
+                            "num_images": 4,
+                            "num_points": 2336,
+                            "num_reprojections": 6329
+                        }
+                    },
+                    {
+                        "images": [
+                            "kitchen05.jpg"
+                        ],
+                        "resection": {
+                            "num_common_points": 279,
+                            "num_inliers": 197,
+                            "shots": [
+                                "kitchen05.jpg"
+                            ]
+                        },
+                        "memory_usage": 208175104,
+                        "triangulated_points": 224,
+                        "local_bundle": {
+                            "brief_report": "Ceres Solver Report: Iterations: 8, Initial cost: 4.248871e+02, Final cost: 3.921483e+02, Termination: CONVERGENCE",
+                            "wall_times": {
+                                "setup": 0.008026,
+                                "run": 0.130896,
+                                "teardown": 0.00351
+                            },
+                            "num_images": 5,
+                            "num_interior_images": 5,
+                            "num_boundary_images": 0,
+                            "num_other_images": 0,
+                            "num_points": 2559,
+                            "num_reprojections": 7062
+                        }
+                    },
+                    {
+                        "images": [
+                            "kitchen03.jpg"
+                        ],
+                        "resection": {
+                            "num_common_points": 306,
+                            "num_inliers": 198,
+                            "shots": [
+                                "kitchen03.jpg"
+                            ]
+                        },
+                        "memory_usage": 209584128,
+                        "triangulated_points": 555,
+                        "bundle": {
+                            "brief_report": "Ceres Solver Report: Iterations: 21, Initial cost: 5.924884e+02, Final cost: 4.753706e+02, Termination: CONVERGENCE",
+                            "wall_times": {
+                                "setup": 0.00635,
+                                "run": 0.530976,
+                                "teardown": 0.004597
+                            },
+                            "num_images": 6,
+                            "num_points": 3114,
+                            "num_reprojections": 8417
+                        },
+                        "retriangulation": {
+                            "num_points_before": 3114,
+                            "num_points_after": 3296,
+                            "wall_time": 0.44454249199770857
+                        },
+                        "bundle_after_retriangulation": {
+                            "brief_report": "Ceres Solver Report: Iterations: 9, Initial cost: 5.795670e+02, Final cost: 5.483915e+02, Termination: CONVERGENCE",
+                            "wall_times": {
+                                "setup": 0.006402,
+                                "run": 0.267204,
+                                "teardown": 0.004935
+                            },
+                            "num_images": 6,
+                            "num_points": 3296,
+                            "num_reprojections": 8958
+                        }
+                    },
+                    {
+                        "images": [
+                            "kitchen06.jpg"
+                        ],
+                        "resection": {
+                            "num_common_points": 244,
+                            "num_inliers": 174,
+                            "shots": [
+                                "kitchen06.jpg"
+                            ]
+                        },
+                        "memory_usage": 213069824,
+                        "triangulated_points": 219,
+                        "local_bundle": {
+                            "brief_report": "Ceres Solver Report: Iterations: 5, Initial cost: 5.793620e+02, Final cost: 5.463068e+02, Termination: CONVERGENCE",
+                            "wall_times": {
+                                "setup": 0.011184,
+                                "run": 0.124885,
+                                "teardown": 0.005145
+                            },
+                            "num_images": 7,
+                            "num_interior_images": 7,
+                            "num_boundary_images": 0,
+                            "num_other_images": 0,
+                            "num_points": 3515,
+                            "num_reprojections": 9570
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "bootstrap": {
+                "image_pair": [
+                    "kitchen09.jpg",
+                    "kitchen12.jpg"
+                ],
+                "common_tracks": 441,
+                "two_view_reconstruction": {
+                    "5_point_inliers": 433,
+                    "plane_based_inliers": 313,
+                    "method": "5_point"
+                },
+                "triangulated_points": 430,
+                "decision": "Success",
+                "memory_usage": 214691840
+            },
+            "grow": {
+                "steps": [
+                    {
+                        "images": [
+                            "kitchen10.jpg"
+                        ],
+                        "resection": {
+                            "num_common_points": 231,
+                            "num_inliers": 228,
+                            "shots": [
+                                "kitchen10.jpg"
+                            ]
+                        },
+                        "memory_usage": 214691840,
+                        "triangulated_points": 596,
+                        "bundle": {
+                            "brief_report": "Ceres Solver Report: Iterations: 20, Initial cost: 8.391322e+01, Final cost: 6.288642e+01, Termination: CONVERGENCE",
+                            "wall_times": {
+                                "setup": 0.001441,
+                                "run": 0.124007,
+                                "teardown": 0.00118
+                            },
+                            "num_images": 3,
+                            "num_points": 1026,
+                            "num_reprojections": 2280
+                        },
+                        "retriangulation": {
+                            "num_points_before": 1026,
+                            "num_points_after": 1031,
+                            "wall_time": 0.12488594399474096
+                        },
+                        "bundle_after_retriangulation": {
+                            "brief_report": "Ceres Solver Report: Iterations: 7, Initial cost: 6.740446e+01, Final cost: 6.495528e+01, Termination: CONVERGENCE",
+                            "wall_times": {
+                                "setup": 0.001384,
+                                "run": 0.05057,
+                                "teardown": 0.001083
+                            },
+                            "num_images": 3,
+                            "num_points": 1031,
+                            "num_reprojections": 2293
+                        }
+                    },
+                    {
+                        "images": [
+                            "kitchen11.jpg"
+                        ],
+                        "resection": {
+                            "num_common_points": 182,
+                            "num_inliers": 176,
+                            "shots": [
+                                "kitchen11.jpg"
+                            ]
+                        },
+                        "memory_usage": 214691840,
+                        "triangulated_points": 697,
+                        "bundle": {
+                            "brief_report": "Ceres Solver Report: Iterations: 11, Initial cost: 1.409814e+02, Final cost: 1.033491e+02, Termination: CONVERGENCE",
+                            "wall_times": {
+                                "setup": 0.002481,
+                                "run": 0.126647,
+                                "teardown": 0.001818
+                            },
+                            "num_images": 4,
+                            "num_points": 1728,
+                            "num_reprojections": 3866
+                        },
+                        "retriangulation": {
+                            "num_points_before": 1728,
+                            "num_points_after": 1727,
+                            "wall_time": 0.18423404899658635
+                        },
+                        "bundle_after_retriangulation": {
+                            "brief_report": "Ceres Solver Report: Iterations: 7, Initial cost: 1.105786e+02, Final cost: 1.064899e+02, Termination: CONVERGENCE",
+                            "wall_times": {
+                                "setup": 0.002456,
+                                "run": 0.084764,
+                                "teardown": 0.001906
+                            },
+                            "num_images": 4,
+                            "num_points": 1727,
+                            "num_reprojections": 3870
+                        }
+                    },
+                    {
+                        "images": [
+                            "kitchen04.jpg"
+                        ],
+                        "resection": {
+                            "num_common_points": 199,
+                            "num_inliers": 173,
+                            "shots": [
+                                "kitchen04.jpg"
+                            ]
+                        },
+                        "memory_usage": 214691840,
+                        "triangulated_points": 176,
+                        "local_bundle": {
+                            "brief_report": "Ceres Solver Report: Iterations: 6, Initial cost: 1.246116e+02, Final cost: 1.050224e+02, Termination: CONVERGENCE",
+                            "wall_times": {
+                                "setup": 0.005422,
+                                "run": 0.063006,
+                                "teardown": 0.002187
+                            },
+                            "num_images": 5,
+                            "num_interior_images": 5,
+                            "num_boundary_images": 0,
+                            "num_other_images": 0,
+                            "num_points": 1903,
+                            "num_reprojections": 4395
+                        }
+                    }
+                ]
+            }
+        }
+    ],
+    "wall_times": {
+        "compute_image_pairs": 0.19482401400455274,
+        "compute_reconstructions": 6.764436209996347
+    },
+    "not_reconstructed_images": []
+}

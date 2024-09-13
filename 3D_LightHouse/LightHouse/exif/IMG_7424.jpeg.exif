@@ -1,0 +1,16 @@
+{
+    "make": "Apple",
+    "model": "iPhone 14 back dual wide camera 5.7mm f/1.5",
+    "width": 4032,
+    "height": 3024,
+    "projection_type": "perspective",
+    "focal_ratio": 0.7222222222222222,
+    "orientation": 6,
+    "capture_time": 1722216277.0,
+    "gps": {
+        "latitude": 34.74890555555556,
+        "longitude": -86.64527777777778,
+        "altitude": 224.08419421487602
+    },
+    "camera": "v2 apple iphone 14 back dual wide camera 5.7mm f/1.5 4032 3024 perspective 0.7222"
+}

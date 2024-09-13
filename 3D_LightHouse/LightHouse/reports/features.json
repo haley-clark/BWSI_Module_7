@@ -1,0 +1,370 @@
+{
+    "wall_time": 167.34127717791125,
+    "image_reports": [
+        {
+            "image": "IMG_7422.jpeg",
+            "num_features": 5436,
+            "wall_time": 2.0556067377328873
+        },
+        {
+            "image": "IMG_7133.jpeg",
+            "num_features": 5461,
+            "wall_time": 2.3136140499264
+        },
+        {
+            "image": "IMG_7190.jpeg",
+            "num_features": 5773,
+            "wall_time": 2.2179532209411263
+        },
+        {
+            "image": "IMG_7145.jpeg",
+            "num_features": 5494,
+            "wall_time": 2.076855046208948
+        },
+        {
+            "image": "IMG_7421.jpeg",
+            "num_features": 5289,
+            "wall_time": 2.3471508091315627
+        },
+        {
+            "image": "IMG_7453.jpeg",
+            "num_features": 5233,
+            "wall_time": 2.217432677280158
+        },
+        {
+            "image": "IMG_7448.jpeg",
+            "num_features": 5329,
+            "wall_time": 2.0692590628750622
+        },
+        {
+            "image": "IMG_7451.jpeg",
+            "num_features": 5143,
+            "wall_time": 1.9990242323838174
+        },
+        {
+            "image": "IMG_7454.jpeg",
+            "num_features": 5164,
+            "wall_time": 1.9606392406858504
+        },
+        {
+            "image": "IMG_7424.jpeg",
+            "num_features": 5407,
+            "wall_time": 2.019586377311498
+        },
+        {
+            "image": "IMG_7419.jpeg",
+            "num_features": 5285,
+            "wall_time": 2.0251794676296413
+        },
+        {
+            "image": "IMG_7398.jpeg",
+            "num_features": 5472,
+            "wall_time": 2.218782584182918
+        },
+        {
+            "image": "IMG_7407.jpeg",
+            "num_features": 5277,
+            "wall_time": 2.1872126520611346
+        },
+        {
+            "image": "IMG_7187.jpeg",
+            "num_features": 5733,
+            "wall_time": 2.189518314320594
+        },
+        {
+            "image": "IMG_7460.jpeg",
+            "num_features": 5147,
+            "wall_time": 1.969928293954581
+        },
+        {
+            "image": "IMG_7455.jpeg",
+            "num_features": 5169,
+            "wall_time": 2.0857107928022742
+        },
+        {
+            "image": "IMG_7115.jpeg",
+            "num_features": 5480,
+            "wall_time": 2.0867541250772774
+        },
+        {
+            "image": "IMG_7402.jpeg",
+            "num_features": 5381,
+            "wall_time": 1.9323067087680101
+        },
+        {
+            "image": "IMG_7443.jpeg",
+            "num_features": 5373,
+            "wall_time": 2.0925145619548857
+        },
+        {
+            "image": "IMG_7429.jpeg",
+            "num_features": 5823,
+            "wall_time": 2.0703122871927917
+        },
+        {
+            "image": "IMG_7406.jpeg",
+            "num_features": 5359,
+            "wall_time": 1.9942242251709104
+        },
+        {
+            "image": "IMG_7113.jpeg",
+            "num_features": 5502,
+            "wall_time": 1.9831172907724977
+        },
+        {
+            "image": "IMG_7183.jpeg",
+            "num_features": 5465,
+            "wall_time": 2.039346853736788
+        },
+        {
+            "image": "IMG_7447.jpeg",
+            "num_features": 5097,
+            "wall_time": 1.9226037007756531
+        },
+        {
+            "image": "IMG_7114.jpeg",
+            "num_features": 5491,
+            "wall_time": 1.958389287814498
+        },
+        {
+            "image": "IMG_7186.jpeg",
+            "num_features": 5205,
+            "wall_time": 1.9387528337538242
+        },
+        {
+            "image": "IMG_7401.jpeg",
+            "num_features": 5383,
+            "wall_time": 1.9483403828926384
+        },
+        {
+            "image": "IMG_7188.jpeg",
+            "num_features": 5976,
+            "wall_time": 2.0736189880408347
+        },
+        {
+            "image": "IMG_7408.jpeg",
+            "num_features": 5283,
+            "wall_time": 1.9347426029853523
+        },
+        {
+            "image": "IMG_7425.jpeg",
+            "num_features": 5377,
+            "wall_time": 2.044602405279875
+        },
+        {
+            "image": "IMG_7444.jpeg",
+            "num_features": 5450,
+            "wall_time": 2.4290536157786846
+        },
+        {
+            "image": "IMG_7423.jpeg",
+            "num_features": 5480,
+            "wall_time": 1.9533934318460524
+        },
+        {
+            "image": "IMG_7449.jpeg",
+            "num_features": 5396,
+            "wall_time": 1.9400694482028484
+        },
+        {
+            "image": "IMG_7452.jpeg",
+            "num_features": 5090,
+            "wall_time": 1.9104974791407585
+        },
+        {
+            "image": "IMG_7442.jpeg",
+            "num_features": 5368,
+            "wall_time": 1.9563203249126673
+        },
+        {
+            "image": "IMG_7117.jpeg",
+            "num_features": 5304,
+            "wall_time": 1.9553804243914783
+        },
+        {
+            "image": "IMG_7144.jpeg",
+            "num_features": 5441,
+            "wall_time": 2.2043196950107813
+        },
+        {
+            "image": "IMG_7132.jpeg",
+            "num_features": 5424,
+            "wall_time": 2.2450276259332895
+        },
+        {
+            "image": "IMG_7458.jpeg",
+            "num_features": 5102,
+            "wall_time": 1.9479919597506523
+        },
+        {
+            "image": "IMG_7400.jpeg",
+            "num_features": 5304,
+            "wall_time": 1.9371525458991528
+        },
+        {
+            "image": "IMG_7397.jpeg",
+            "num_features": 5338,
+            "wall_time": 2.1366231688298285
+        },
+        {
+            "image": "IMG_7404.jpeg",
+            "num_features": 5395,
+            "wall_time": 2.139125104062259
+        },
+        {
+            "image": "IMG_7431.jpeg",
+            "num_features": 5789,
+            "wall_time": 2.213736101053655
+        },
+        {
+            "image": "IMG_7436.jpeg",
+            "num_features": 5712,
+            "wall_time": 2.1952762082219124
+        },
+        {
+            "image": "IMG_7191.jpeg",
+            "num_features": 5751,
+            "wall_time": 2.322452020831406
+        },
+        {
+            "image": "IMG_7411.jpeg",
+            "num_features": 5110,
+            "wall_time": 1.9273969461210072
+        },
+        {
+            "image": "IMG_7184.jpeg",
+            "num_features": 5398,
+            "wall_time": 2.1690209568478167
+        },
+        {
+            "image": "IMG_7405.jpeg",
+            "num_features": 5471,
+            "wall_time": 1.9785280656069517
+        },
+        {
+            "image": "IMG_7189.jpeg",
+            "num_features": 5048,
+            "wall_time": 2.0774030750617385
+        },
+        {
+            "image": "IMG_7428.jpeg",
+            "num_features": 5470,
+            "wall_time": 2.026071920990944
+        },
+        {
+            "image": "IMG_7427.jpeg",
+            "num_features": 5298,
+            "wall_time": 2.145837873686105
+        },
+        {
+            "image": "IMG_7435.jpeg",
+            "num_features": 5652,
+            "wall_time": 2.086043335031718
+        },
+        {
+            "image": "IMG_7445.jpeg",
+            "num_features": 5150,
+            "wall_time": 1.9201453202404082
+        },
+        {
+            "image": "IMG_7430.jpeg",
+            "num_features": 5765,
+            "wall_time": 1.9377763848751783
+        },
+        {
+            "image": "IMG_7112.jpeg",
+            "num_features": 5401,
+            "wall_time": 2.065837357658893
+        },
+        {
+            "image": "IMG_7437.jpeg",
+            "num_features": 5588,
+            "wall_time": 1.9920930829830468
+        },
+        {
+            "image": "IMG_7409.jpeg",
+            "num_features": 5180,
+            "wall_time": 1.9292539679445326
+        },
+        {
+            "image": "IMG_7410.jpeg",
+            "num_features": 5349,
+            "wall_time": 1.9845887357369065
+        },
+        {
+            "image": "IMG_7457.jpeg",
+            "num_features": 4961,
+            "wall_time": 1.86087118787691
+        },
+        {
+            "image": "IMG_7456.jpeg",
+            "num_features": 5121,
+            "wall_time": 1.88216042984277
+        },
+        {
+            "image": "IMG_7426.jpeg",
+            "num_features": 5414,
+            "wall_time": 1.9290345208719373
+        },
+        {
+            "image": "IMG_7152.jpeg",
+            "num_features": 5450,
+            "wall_time": 1.9871944817714393
+        },
+        {
+            "image": "IMG_7412.jpeg",
+            "num_features": 5296,
+            "wall_time": 1.9134337352588773
+        },
+        {
+            "image": "IMG_7432.jpeg",
+            "num_features": 5911,
+            "wall_time": 2.0063790711574256
+        },
+        {
+            "image": "IMG_7446.jpeg",
+            "num_features": 5272,
+            "wall_time": 1.9210355808027089
+        },
+        {
+            "image": "IMG_7459.jpeg",
+            "num_features": 5235,
+            "wall_time": 1.914435020647943
+        },
+        {
+            "image": "IMG_7399.jpeg",
+            "num_features": 5402,
+            "wall_time": 1.9511459339410067
+        },
+        {
+            "image": "IMG_7450.jpeg",
+            "num_features": 5149,
+            "wall_time": 1.927555374801159
+        },
+        {
+            "image": "IMG_7433.jpeg",
+            "num_features": 5656,
+            "wall_time": 2.026555235031992
+        },
+        {
+            "image": "IMG_7434.jpeg",
+            "num_features": 5662,
+            "wall_time": 2.1799854799173772
+        },
+        {
+            "image": "IMG_7403.jpeg",
+            "num_features": 5284,
+            "wall_time": 2.0068769841454923
+        },
+        {
+            "image": "IMG_7116.jpeg",
+            "num_features": 5440,
+            "wall_time": 2.053925724234432
+        },
+        {
+            "image": "IMG_7134.jpeg",
+            "num_features": 5569,
+            "wall_time": 2.0832702219486237
+        }
+    ]
+}

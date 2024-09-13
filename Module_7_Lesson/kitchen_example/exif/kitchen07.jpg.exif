@@ -1,0 +1,12 @@
+{
+    "make": "Google",
+    "model": "Pixel 4a (5G)",
+    "width": 4032,
+    "height": 3024,
+    "projection_type": "perspective",
+    "focal_ratio": 0.75,
+    "orientation": 1,
+    "capture_time": 1626966723.784,
+    "gps": {},
+    "camera": "v2 google pixel 4a (5g) 4032 3024 perspective 0.75"
+}

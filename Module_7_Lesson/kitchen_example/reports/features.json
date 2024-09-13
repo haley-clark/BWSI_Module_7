@@ -1,0 +1,65 @@
+{
+    "wall_time": 3.8921169680543244,
+    "image_reports": [
+        {
+            "image": "kitchen11.jpg",
+            "num_features": 4768,
+            "wall_time": 1.0859013219960616
+        },
+        {
+            "image": "kitchen06.jpg",
+            "num_features": 4810,
+            "wall_time": 1.2080595860024914
+        },
+        {
+            "image": "kitchen02.jpg",
+            "num_features": 4915,
+            "wall_time": 1.2369294089949108
+        },
+        {
+            "image": "kitchen04.jpg",
+            "num_features": 4695,
+            "wall_time": 1.1219904230019893
+        },
+        {
+            "image": "kitchen03.jpg",
+            "num_features": 4790,
+            "wall_time": 1.125572312004806
+        },
+        {
+            "image": "kitchen10.jpg",
+            "num_features": 4702,
+            "wall_time": 1.1205277190019842
+        },
+        {
+            "image": "kitchen01.jpg",
+            "num_features": 4868,
+            "wall_time": 1.1594918190021417
+        },
+        {
+            "image": "kitchen12.jpg",
+            "num_features": 4860,
+            "wall_time": 1.1471875569986878
+        },
+        {
+            "image": "kitchen09.jpg",
+            "num_features": 4809,
+            "wall_time": 1.136684024000715
+        },
+        {
+            "image": "kitchen07.jpg",
+            "num_features": 4888,
+            "wall_time": 1.129309894000471
+        },
+        {
+            "image": "kitchen05.jpg",
+            "num_features": 4772,
+            "wall_time": 1.1579573109993362
+        },
+        {
+            "image": "kitchen08.jpg",
+            "num_features": 4889,
+            "wall_time": 1.15211310700397
+        }
+    ]
+}
